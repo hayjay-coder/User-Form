@@ -1,0 +1,29 @@
+.main-form{
+    width: 900px !important;
+    margin:auto;
+    background-color: #928c8c;
+    padding: 30px;
+    border-radius:10px;
+    margin-top: 30px;
+}
+
+.ant-calendar-picker {
+    width: 100%;
+}
+.register-title {
+    text-align:center;
+}
+.formWrapper {
+    width:85%;                                                                                                                                                                       
+    margin: auto;
+    padding: 10px;
+}
+
+.ant-table-column-has-actions {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.ant-table-column-title {
+    color: #000;
+}
