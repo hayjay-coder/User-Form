@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Overview
+The challenge at hand is meant to test your understanding of the React JS library and ability to deploy a simple application to the web. 
+
+
 ### Hosted with firebase
 [User-Form](https://user-form-949cb.firebaseapp.com/)
 
