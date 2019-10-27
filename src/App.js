@@ -1,11 +1,15 @@
 import React from 'react';
-import Userform from './components/UserForm'
+import { Provider } from 'react-redux';
+import Userform from './components/UserForm';
+import store from './redux/store';
 
 function App() {
   return (
+    <Provider store={store}>
     <div className="App">
-     <Userform />
+      <Userform />
     </div>
+    </Provider>
   );
 }
 
